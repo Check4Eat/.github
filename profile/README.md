@@ -10,10 +10,14 @@ Check4Eat is a free app that scans the barcode of a food product and shows what 
   <a href="https://play.google.com/store/apps/details?id=com.check4eat.app"><img src="https://raw.githubusercontent.com/check4eat/.github/main/profile/images/google-play.svg" alt="Get it on Google Play" height="44"></a>
 </p>
 
+Find out more:
+
 <p>
   <a href="https://check4eat.com"><img src="https://raw.githubusercontent.com/check4eat/.github/main/profile/images/website.svg" alt="" height="22" align="absmiddle"></a>
-  <a href="https://check4eat.com"><b>check4eat.com</b></a>
+  <a href="https://check4eat.com" style="color: #0f172a;"><b>check4eat.com</b></a>
 </p>
+
+Find us on the following platforms:
 
 <p>
   <a href="https://www.facebook.com/check4eat"><img src="https://raw.githubusercontent.com/check4eat/.github/main/profile/images/facebook.svg" alt="Facebook" height="32"></a>
